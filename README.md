@@ -1,4 +1,5 @@
 CrisisLink
+
 📱 Overview
 
 CrisisLink is an Android application designed for secure, instant messaging during emergencies without relying on internet connectivity. It enables communication between devices using Bluetooth, ensuring critical messages and SOS alerts can be sent and received in situations where mobile networks are unavailable or unreliable. Ideal for outdoor adventures, disaster relief, and field teams.
