@@ -59,10 +59,4 @@ app/
 4. **Emergency Mode**: Use the SOS button for instant emergency alerts
 5. **Background Operation**: App maintains connection even when minimized
 
-## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit issues, fork the repository, and create pull requests for any improvements.
-
-## 📄 License
-
-This project is open source. Please check the repository for specific license details.
